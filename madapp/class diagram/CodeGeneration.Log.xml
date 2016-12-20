@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-12-02T13:28:31" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="ProjectPath = ..\class diagramLib\class diagramLib.csproj" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-12-02T13:28:32" Importance="Medium" Text="class diagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'class diagram::Beborere' -  (Class), 'class diagram::hus' -  (Class), 'class diagram::Måltid' -  (Class), 'class diagram::Opgaver' -  (Class), 'class diagram::Gæst' -  (Class), 'class diagram::Tildmeld' -  (Class), 'class diagram::Udbetaling' -  (Class) " />
+  <Message Timestamp="2016-12-02T13:28:51" Importance="Medium" Text="Project Added: C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\class diagramLib.csproj" />
+  <Message Timestamp="2016-12-02T13:28:51" Importance="Medium" Text="'class diagram::Beborere' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\Beborere.cs" />
+  <Message Timestamp="2016-12-02T13:28:52" Importance="Medium" Text="'class diagram::hus' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\hus.cs" />
+  <Message Timestamp="2016-12-02T13:28:53" Importance="Medium" Text="'class diagram::Måltid' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\Måltid.cs" />
+  <Message Timestamp="2016-12-02T13:28:53" Importance="Medium" Text="'class diagram::Opgaver' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\Opgaver.cs" />
+  <Message Timestamp="2016-12-02T13:28:53" Importance="Medium" Text="'class diagram::Gæst' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\Gæst.cs" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Medium" Text="'class diagram::Tildmeld' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\Tildmeld.cs" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Medium" Text="'class diagram::Udbetaling' -  (Class) : success (file created) - C:\Users\Bruger\Documents\GitHub\Fallesspisning\madapp\class diagramLib\GeneratedCode\Udbetaling.cs" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="ProjectPath = ..\class diagramLib\class diagramLib.csproj" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Medium" Text="class diagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'class diagram::Beborere' -  (Class), 'class diagram::hus' -  (Class), 'class diagram::Måltid' -  (Class), 'class diagram::Opgaver' -  (Class), 'class diagram::Gæst' -  (Class), 'class diagram::Tildmeld' -  (Class), 'class diagram::Udbetaling' -  (Class) " />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="'class diagram::Beborere' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="'class diagram::hus' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="'class diagram::Måltid' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="'class diagram::Opgaver' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="'class diagram::Gæst' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:54" Importance="Diagnostic" Text="'class diagram::Tildmeld' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'class diagram::Udbetaling' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="The selection included 7 elements which were not bound to a template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'class diagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'67207ade-53dc-4d4e-b752-96837ada5f48' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'79045c93-55f6-4c7b-95d2-8a10261004cc' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'class diagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'476f87fe-4b15-4881-8d40-41d6777b59dc' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'class diagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="Diagnostic" Text="'73c1e825-075e-475f-937b-70e83c6e6bf7' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-12-02T13:28:55" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

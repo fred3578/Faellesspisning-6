@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="HentMaaltid" />
+    <RootPropertyPathName Name="MadUdgift" />
+    <RootPropertyPathName Name="Ret" />
+    <RootPropertyPathName Name="MaaltiderNu" />
+    <RootPropertyPathName Name="SelectedItem2" />
+    <RootPropertyPathName Name="GemMaaltid" />
+    <RootPropertyPathName Name="Dag" />
+    <RootPropertyPathName Name="MaaltiderNext" />
+    <RootPropertyPathName Name="SelectedItem" />
+    <RootPropertyPathName Name="GetBeborerCommand" />
+    <RootPropertyPathName Name="SaveBeborerCommand" />
+    <RootPropertyPathName Name="HusNr" />
+    <RootPropertyPathName Name="SelectedIndex" />
+    <RootPropertyPathName Name="Beboreres" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="Alder" />
+    <RootPropertyPathName Name="HusNr01" />
+    <RootPropertyPathName Name="VoksenAntalTorsdag" />
+    <RootPropertyPathName Name="VoksenAntalOnsdag" />
+    <RootPropertyPathName Name="VoksenAntalTirsdag" />
+    <RootPropertyPathName Name="VoksenAntalMandag" />
+    <RootPropertyPathName Name="GemNoget" />
+    <RootPropertyPathName Name="SpaedAntalTorsdag" />
+    <RootPropertyPathName Name="SpaedAntalOnsdag" />
+    <RootPropertyPathName Name="SpaedAntalTirsdag" />
+    <RootPropertyPathName Name="SpaedAntalMandag" />
+    <RootPropertyPathName Name="BarnAntalTorsdag" />
+    <RootPropertyPathName Name="BarnAntalOnsdag" />
+    <RootPropertyPathName Name="BarnAntalTirsdag" />
+    <RootPropertyPathName Name="BarnAntalMandag" />
+    <RootPropertyPathName Name="UngAntalTorsdag" />
+    <RootPropertyPathName Name="UngAntalOnsdag" />
+    <RootPropertyPathName Name="UngAntalTirsdag" />
+    <RootPropertyPathName Name="UngAntalMandag" />
+    <RootPropertyPathName Name="Opgavernes" />
+    <RootPropertyPathName Name="HentListe" />
+    <RootPropertyPathName Name="KvitteringsListe" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="RequestedTheme" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Footap.MaaltidViewModel" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="SelectedIndex" />
+      <RootProperty Name="IsSynchronizedWithCurrentItem" />
+      <RootProperty Name="RenderTransformOrigin" />
+      <RootProperty Name="Header" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="InputScope" />
+      <RootProperty Name="RenderTransformOrigin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactivity.Interaction">
+      <RootMethod Name="GetBehaviors" />
+      <RootMethod Name="SetBehaviors" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.EventTriggerBehavior">
+      <RootProperty Name="EventName" />
+      <RootProperty Name="Actions" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.InvokeCommandAction">
+      <RootProperty Name="Command" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Mode" />
+      <RootProperty Name="UpdateSourceTrigger" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.NavigateToPageAction">
+      <RootProperty Name="TargetPage" />
+      <RootProperty Name="Parameter" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.CallMethodAction">
+      <RootProperty Name="MethodName" />
+      <RootProperty Name="TargetObject" />
+    </RootType>
+    <RootType FullName="Footap.AddFood" />
+    <RootType FullName="Footap.BeborereVm" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="IsSynchronizedWithCurrentItem" />
+    </RootType>
+    <RootType FullName="Footap.Beboreretilfoej" />
+    <RootType FullName="Footap.BestilMad.BestilVM" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Inlines" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="RenderTransformOrigin" />
+      <RootEvent Name="Checked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.Run">
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.LineBreak" />
+    <RootType FullName="Footap.BestilMad.Bestil" />
+    <RootType FullName="Footap.MainPage" />
+    <RootType FullName="Footap.OpgaverVm" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Footap.Opgaver" />
+    <RootType FullName="Footap.Profil" />
+    <RootType FullName="Footap.UdbetalingView" />
+  </Roots.RootTypes>
+</Roots>

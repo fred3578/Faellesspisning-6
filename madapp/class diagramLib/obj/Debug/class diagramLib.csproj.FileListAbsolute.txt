@@ -1,0 +1,5 @@
+C:\Users\Denderish\Source\Repos\Fallesspisning\madapp\class diagramLib\bin\Debug\class diagramLib.dll
+C:\Users\Denderish\Source\Repos\Fallesspisning\madapp\class diagramLib\bin\Debug\class diagramLib.pdb
+C:\Users\Denderish\Source\Repos\Fallesspisning\madapp\class diagramLib\obj\Debug\class diagramLib.csprojResolveAssemblyReference.cache
+C:\Users\Denderish\Source\Repos\Fallesspisning\madapp\class diagramLib\obj\Debug\class diagramLib.dll
+C:\Users\Denderish\Source\Repos\Fallesspisning\madapp\class diagramLib\obj\Debug\class diagramLib.pdb
